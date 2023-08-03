@@ -1,5 +1,8 @@
+ /*h1*/ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto+Slab:wght@500&family=Roboto:ital,wght@1,300;1,400&family=Ubuntu:ital,wght@0,700;1,300;1,400&display=swap');
+/* p */ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto+Slab&family=Roboto:ital,wght@1,300;1,400&family=Ubuntu:ital,wght@0,700;1,300;1,400&display=swap');
+  
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(99,9,121,1) 35%, rgba(5,96,179,1) 55%, rgba(212,3,204,1) 79%, rgba(0,212,255,1) 100%);
 }
 
 .image{
@@ -17,6 +20,31 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
 *{
     font-family: sans-serif;
     }
+
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+a {
+    text-decoration: none
+}
+
+a:hover {
+    color: red
+}
+
