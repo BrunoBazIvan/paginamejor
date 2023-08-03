@@ -60,6 +60,11 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
+*{
+    font-family: sans-serif;
+    }
+
+
 h1 {
     font-family: 'Poppins', sans-serif;
 font-family: 'Roboto', sans-serif;
@@ -81,4 +86,8 @@ a {
 a:hover {
     color: red
 
+
 }
+
+}
+
